@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_366623_venkat_venkat">x_366623_venkat_venkat</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VEN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 05:43:16</sys_created_on>
+        <sys_id>230c429cdb023300cc2685184b9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VEN</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sys_number_230c429cdb023300cc2685184b9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 05:43:16</sys_updated_on>
+    </sys_number>
+</record_update>

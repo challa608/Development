@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="college sevice catolog">c73e4481db023300cc2685184b961916</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:29:20</sys_created_on>
+        <sys_id>f34e0481db023300cc2685184b961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college sevice catolog.catalog_college_sevice_catolog</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_college_sevice_catolog">f34e0481db023300cc2685184b961912</sys_portal_page>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_f34e0481db023300cc2685184b961913</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:29:20</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="create record">8a8a3b6cdb8e3300cc2685184b9619bc</sc_cat_item>
+        <sc_category display_value="SINDUM4 hardware">70e197a0db4e3300cc2685184b9619cd</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:31:50</sys_created_on>
+        <sys_id>ea3cbbacdb8e3300cc2685184b96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SINDUM4 hardware.create record</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sc_cat_item_category_ea3cbbacdb8e3300cc2685184b96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:31:50</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

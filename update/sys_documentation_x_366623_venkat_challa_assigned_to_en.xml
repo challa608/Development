@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_to" label="name" language="en" table="x_366623_venkat_challa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint/>
+            <label>name</label>
+            <language>en</language>
+            <name>x_366623_venkat_challa</name>
+            <plural>names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:00:42</sys_created_on>
+            <sys_id>66f64bd0dbc23300cc2685184b961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+            <sys_update_name>sys_documentation_x_366623_venkat_challa_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:00:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

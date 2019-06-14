@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_366623_venkat.venkatIPS</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>venkatIPS</name>
+        <script><![CDATA[var venkatIPS = Class.create();
+venkatIPS.prototype = {
+    initialize: function() {
+    },
+
+ helloworld:function(){
+	gs.addInfoMessage("Venkat Ips");
+}
+	
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 09:04:06</sys_created_on>
+        <sys_id>fea54545db823300cc2685184b9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>venkatIPS</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sys_script_include_fea54545db823300cc2685184b9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 09:04:06</sys_updated_on>
+    </sys_script_include>
+</record_update>

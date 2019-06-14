@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:48:31</sys_created_on>
+        <sys_id>38b2d445db023300cc2685184b961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366623_venkat_suggetion_box.x_366623_venkat.suggetion_box_user</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_security_acl display_value="x_366623_venkat_suggetion_box">7cb2d445db023300cc2685184b96194d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_38b2d445db023300cc2685184b961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:48:31</sys_updated_on>
+        <sys_user_role display_value="x_366623_venkat.suggetion_box_user" name="x_366623_venkat.suggetion_box_user">38b2dc05db023300cc2685184b961902</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

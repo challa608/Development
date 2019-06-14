@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="venkat" max_length="40" name="x_366623_venkat_venkat" sizeclass="6" type="collection">
+        <element label="EMAIL" max_length="100" name="email" type="string"/>
+        <element label="Names" max_length="40" name="names" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="incident">closed_atONLast 12 months@javascript:gs.beginningOfLast12Months()@javascript:gs.endOfLast12Months()^active=true^EQ^ORDERBYactive<item endquery="false" field="closed_at" goto="false" newquery="false" operator="ON" or="false" value="Last 12 months@javascript:gs.beginningOfLast12Months()@javascript:gs.endOfLast12Months()"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="active"/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 06:02:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02509adcdb023300cc2685184b9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sys_filter_02509adcdb023300cc2685184b9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 06:02:00</sys_updated_on>
+        <table>incident</table>
+        <title>test1</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=02509adcdb023300cc2685184b9619c7"/>
+</record_update>

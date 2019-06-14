@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="create record">8a8a3b6cdb8e3300cc2685184b9619bc</sc_cat_item>
+        <sc_catalog display_value="INDUECE Service catalog">7e21df60db4e3300cc2685184b96196d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:31:50</sys_created_on>
+        <sys_id>2a3c376cdb8e3300cc2685184b9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INDUECE Service catalog.create record</sys_name>
+        <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2a3c376cdb8e3300cc2685184b9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:31:50</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

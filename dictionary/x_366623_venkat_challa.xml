@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="challa" max_length="40" name="x_366623_venkat_challa" sizeclass="5" type="collection">
+        <element choice="1" label="Bhavya" max_length="50" name="bhavya" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sam" value="Pam"/>
+            </choice>
+        </element>
+        <element label="Marks" max_length="40" name="marks" type="integer"/>
+        <element label="Names" max_length="40" name="names" type="string"/>
+    </element>
+</database>
