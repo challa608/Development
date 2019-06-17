@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="text_type" table="x_366623_venkat_venkat" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>text_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_366623_venkat_venkat</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:53:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f02e6dddb823300cc2685184b9619b5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:53:57</sys_updated_on>
+            <value>nm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>text_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Roll number</label>
+            <language>en</language>
+            <name>x_366623_venkat_venkat</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:54:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4122a6dddb823300cc2685184b9619b8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:54:13</sys_updated_on>
+            <value>rn</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>text_type</element>
+            <name>x_366623_venkat_venkat</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:53:41</sys_created_on>
+            <sys_id>0122e69ddb823300cc2685184b961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>text_type</sys_name>
+            <sys_package display_value="venkat" source="x_366623_venkat">8c8b421cdb023300cc2685184b96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="venkat">8c8b421cdb023300cc2685184b96192c</sys_scope>
+            <sys_update_name>sys_choice_x_366623_venkat_venkat_text_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:53:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

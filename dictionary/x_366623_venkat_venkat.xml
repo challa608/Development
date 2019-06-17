@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="venkat" max_length="40" name="x_366623_venkat_venkat" sizeclass="6" type="collection">
+    <element extends="task" label="venkat" max_length="40" name="x_366623_venkat_venkat" sizeclass="5" type="collection">
+        <element choice="1" label="Catogery" max_length="100" name="catogery" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Hardware" value="hw"/>
+                <element inactive_on_update="false" label="Software" value="sw"/>
+            </choice>
+        </element>
         <element label="EMAIL" max_length="100" name="email" type="string"/>
         <element label="Names" max_length="40" name="names" type="string"/>
+        <element choice="1" label="places" max_length="100" name="places" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Delhi" value="D"/>
+            </choice>
+        </element>
+        <element label="Text Type " max_length="100" name="text_type" type="string"/>
     </element>
 </database>

@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="0fae2614db823300cc2685184b96199b" sys_domain="global" table="x_366623_venkat_venkat" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-06-14 05:01:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>532f5d91db023300cc2685184b961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366623_venkat_venkat" name="x_366623_venkat_venkat" sys_domain="global" view="783811707420330078509adcc48c87a3">0fae2614db823300cc2685184b96199b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366623_venkat_venkat" sys_domain="global" view="783811707420330078509adcc48c87a3">03ae6614db823300cc2685184b96199e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:01:07</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_366623_venkat_venkat</name>
             <roles/>
