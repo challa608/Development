@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="venkat" max_length="40" name="x_366623_venkat_venkat" sizeclass="5" type="collection">
+    <element extends="task" label="venkat" max_length="40" name="x_366623_venkat_venkat" sizeclass="6" type="collection">
         <element choice="1" label="Catogery" max_length="100" name="catogery" type="choice">
             <choice>
                 <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>

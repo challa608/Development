@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ACL Testing" max_length="40" name="x_366623_venkat_acl_testing" type="collection">
+        <element label="Number" max_length="40" name="number" type="integer"/>
+        <element label="Short Discription" max_length="40" name="short_discription" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
